@@ -64,7 +64,7 @@
 #include "tnt_stopwatch.h"
 #include "tnt_subscript.h"
 
-#include "tnt_linalg.h"		//Added by Xiaojiang Yang at MI3C;
+#include "tnt_linalg.h"	
 
 
 #endif
